@@ -1,0 +1,14 @@
+/Users/scott/Projects/sudoku_solver/sudoku_solver/bin/Debug/net7.0/sudoku_solver
+/Users/scott/Projects/sudoku_solver/sudoku_solver/bin/Debug/net7.0/sudoku_solver.deps.json
+/Users/scott/Projects/sudoku_solver/sudoku_solver/bin/Debug/net7.0/sudoku_solver.runtimeconfig.json
+/Users/scott/Projects/sudoku_solver/sudoku_solver/bin/Debug/net7.0/sudoku_solver.dll
+/Users/scott/Projects/sudoku_solver/sudoku_solver/bin/Debug/net7.0/sudoku_solver.pdb
+/Users/scott/Projects/sudoku_solver/sudoku_solver/obj/Debug/net7.0/sudoku_solver.GeneratedMSBuildEditorConfig.editorconfig
+/Users/scott/Projects/sudoku_solver/sudoku_solver/obj/Debug/net7.0/sudoku_solver.AssemblyInfoInputs.cache
+/Users/scott/Projects/sudoku_solver/sudoku_solver/obj/Debug/net7.0/sudoku_solver.AssemblyInfo.cs
+/Users/scott/Projects/sudoku_solver/sudoku_solver/obj/Debug/net7.0/sudoku_solver.csproj.CoreCompileInputs.cache
+/Users/scott/Projects/sudoku_solver/sudoku_solver/obj/Debug/net7.0/sudoku_solver.dll
+/Users/scott/Projects/sudoku_solver/sudoku_solver/obj/Debug/net7.0/refint/sudoku_solver.dll
+/Users/scott/Projects/sudoku_solver/sudoku_solver/obj/Debug/net7.0/sudoku_solver.pdb
+/Users/scott/Projects/sudoku_solver/sudoku_solver/obj/Debug/net7.0/sudoku_solver.genruntimeconfig.cache
+/Users/scott/Projects/sudoku_solver/sudoku_solver/obj/Debug/net7.0/ref/sudoku_solver.dll
